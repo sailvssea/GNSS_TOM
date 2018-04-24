@@ -1,0 +1,18 @@
+---------------------------------- REQUIRED ----------------------------------
+Rinex Version  3.02,  File type N: GNSS NAV DATA, System G: (GPS).
+Prgm: cnvtToRINEX 2.25.0,  Run: 23-Jan-15 22:34 UTC,  By: convertToRINEX OPR
+(This header is VALID RINEX version 3).
+---------------------------------- OPTIONAL ----------------------------------
+Time system correction for GPUT: GPS to UTC, A0 = 1.862645149000e-09, A1 = 4.440892100000e-15, RefTime = week/sow 25/61440
+Iono correction for GPSA : alpha 2.7940e-08 -7.4510e-09 -1.1920e-07 1.1920e-07
+Iono correction for GPSB : beta  1.3720e+05 -4.9150e+04 -1.3110e+05 -2.6210e+05
+Leap seconds: 16
+Comments (1) :
+-----------------------------------------------------------
+-------------------------------- END OF HEADER -------------------------------
+Rinex3NavData dump: G24 TOC 2014/11/01 00:00:00 wk 1816 xmit 518262 Toe 518400.000
+ Toc 518400.000 af0 -3.773532807830e-05 af1 -5.684341886080e-13 af2 0.000000000000e+00 Tgd 2.793967723850e-09 Tgd2 0.000000000000e+00
+ M0 7.094098608080e-01 Ecc 2.428175415840e-03 sqrtA 5.153709716800e+03 OM -1.330713852060e+00
+ i0 9.552706132550e-01 om 2.070581933530e-01 dOMdt -8.178554955360e-09 didt -3.235849071820e-10
+ Cuc 1.225620508190e-06 Cus 9.760260581970e-06 Crc 1.842812500000e+02 Crs 2.375000000000e+01 Cic 2.421438694000e-08 Cis -7.450580596920e-09
+ health 0 acc 2.400000000000e+00 fit 4.000000000000e+00 IODE 7.700000000000e+01 IODC 7.700000000000e+01 codeflags 1 L2P 0

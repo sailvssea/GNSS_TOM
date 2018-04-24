@@ -1,0 +1,18 @@
+---------------------------------- REQUIRED ----------------------------------
+Rinex Version  2.10,  File type N: GPS NAV DATA, System G: (GPS).
+Prgm: XXRINEXN V3,  Run: 1999-09-02 19:22:36,  By: AIUB
+(This header is VALID RINEX version 2).
+---------------------------------- OPTIONAL ----------------------------------
+Time system correction for GPUT: GPS to UTC, A0 = 1.331791281700e-07, A1 = 1.074695887800e-13, RefTime = week/sow 1025/552960
+Iono correction for GPSA : alpha 1.6760e-08 2.2350e-08 -1.1920e-07 -1.1920e-07
+Iono correction for GPSB : beta  1.2080e+05 1.3100e+05 -1.3100e+05 -1.9660e+05
+Leap seconds: 13
+Comments (1) :
+THIS IS ONE COMMENT
+-------------------------------- END OF HEADER -------------------------------
+Rinex3NavData dump: G13 TOC 1999/09/02 19:00:00 wk 1025 xmit 410400 Toe 414000.000
+ Toc 414000.000 af0 4.900256171820e-04 af1 2.046363078990e-12 af2 0.000000000000e+00 Tgd 0.000000000000e+00 Tgd2 0.000000000000e+00
+ M0 2.929611521460e+00 Ecc 2.002393477600e-03 sqrtA 5.153284761430e+03 OM 2.430319399420e+00
+ i0 1.101927969300e+00 om -2.327579154250e+00 dOMdt -6.196329530570e-09 didt -7.857470152310e-12
+ Cuc -4.988163709640e-06 Cus 9.281560778620e-06 Crc 2.711875000000e+02 Crs -9.631250000000e+01 Cic -2.793967723850e-08 Cis -5.587935447690e-08
+ health 0 acc 0.000000000000e+00 fit 0.000000000000e+00 IODE 1.330000000000e+02 IODC 3.890000000000e+02 codeflags 0 L2P 0

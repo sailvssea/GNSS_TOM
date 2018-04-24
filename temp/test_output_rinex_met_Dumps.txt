@@ -1,0 +1,15 @@
+Marker 85408
+Obs types:
+PR TD HR ZW ZD ZT WD WS RI HI 
+                            
+   04  4 19  0  0  0
+  PR 992.6
+  TD 23.9
+  HR 59.7
+  ZW 50
+  ZD 40
+  ZT 30
+  WD 20
+  WS 15
+  RI 10
+  HI 27.7
